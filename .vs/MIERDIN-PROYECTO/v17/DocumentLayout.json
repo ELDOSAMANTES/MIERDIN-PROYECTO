@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel-TUF\\source\\repos\\MIERDIN-PROYECTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angel-TUF\\Source\\Repos\\MIERDIN-PROYECTO\\proyecto_escuela.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_escuela.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proyecto_escuela.py",
+              "DocumentMoniker": "C:\\Users\\Angel-TUF\\Source\\Repos\\MIERDIN-PROYECTO\\proyecto_escuela.py",
+              "RelativeDocumentMoniker": "proyecto_escuela.py",
+              "ToolTip": "C:\\Users\\Angel-TUF\\Source\\Repos\\MIERDIN-PROYECTO\\proyecto_escuela.py",
+              "RelativeToolTip": "proyecto_escuela.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-25T16:28:29.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
