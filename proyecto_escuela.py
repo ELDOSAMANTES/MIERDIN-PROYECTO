@@ -1,2 +1,5 @@
- 
-print("Mierdin")
+
+print("faaakkkk")
+print("faaakkkk")
+print("faaakkkk")
+print("faaakkkk")
